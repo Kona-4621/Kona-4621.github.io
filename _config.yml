@@ -18,21 +18,51 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+
+title: Kona's Personal/Blog Website
+email: kouga-p@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi! This is my personal website where I'll write about things that aren't related to UTAU or other vocal synths!
+  Currently, it's just for my FRC Build Season log/journal, but eventually I might add a photography section and other stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  HeadHunter4621
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+
+
+author:
+  name: "Kona"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "hashtag yep" # Note: Markdown is allowed
+  links:
+    - label: "GitHub"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "UTAU/VSynth Website"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+theme: minimal-mistakes-jekyll
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
