@@ -5,7 +5,7 @@ collection: robotics_log
 
 [Very short (3-5 word) description of meeting]
 
-[Meeting Hours]
+[Meeting Date] ([Meeting Hours])
 
 [Summary]
 

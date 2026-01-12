@@ -5,7 +5,7 @@ category: robotics_log
 
 ## Kickoff Stream & Initial Brainstorming
 
-8:45 AM - 5:00 PM (I left at 4:30)
+Saturday, January  10 (8:45 AM - 5:00 PM (I left at 4:30))
 
 First day of kickoff meetings! 
 We watched the livestream and made the MosCoW sort for robot actions and archetypes.
