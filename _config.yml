@@ -71,8 +71,9 @@ plugins:
   - jekyll-remote-theme
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "neon"
+include: ["_pages"]
 sass:
-  quiet_deps: false
+  quiet_deps: true
 
 
 
