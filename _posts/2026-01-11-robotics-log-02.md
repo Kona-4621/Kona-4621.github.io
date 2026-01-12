@@ -3,6 +3,8 @@ title: "Robotics Log 02 - Kickoff Day 2"
 category: robotics_log
 ---
 
+## Mechanism & Prototype Discussions
+
 10:00AM - 5:00 PM
 
 At this meeting, we reviewed our decisions on what robot actions to pursue, and brainstormed mechanisms.
@@ -32,9 +34,11 @@ Scrimmage is on February 22nd, and we plan to have the robot mechanically and el
 We also hope to have some drive practice, as well as at least 1 auto by then. 
 In order to meet these goals, Kylie (the other co-captain) and I decided that the robot must be mechanically and electrically finished in 4 weeks, so it really is go time!
 
-## Meetings until Scrimmage: `42`
+Meetings until Scrimmage: `42`
+
 
 ## Things Completed at This Meeting:
+
 ### Mechanical/CAD:
 - Decided what prototypes/mechanisms to pursue/ignore
 
@@ -42,13 +46,17 @@ In order to meet these goals, Kylie (the other co-captain) and I decided that th
 - Students brainstormed and presented mechanism concepts
 - Sorted mechanisms into MOSCOW chart
 
+
 ## Team Goals for Next Meeting:
+
 ### Mechanical:
 - Start progress on my prototype (Tube indexer) and have the KitBot ~30% completed by the end of the meeting
 - CAD for prototypes are 50% (or more) done
 
+
 ## My Goals for Next Meeting:
 - Find 2-4 people who are interested in helping to prototype the tube indexer
+
 
 ## Relevant Links:
 [MOSCOW Sort](https://docs.google.com/spreadsheets/d/1z1QOl9JxvJ0wGgMmvaw7cJ8mKTGnyuxgDmkQH5suzJ8/edit?gid=1562110465#gid=1562110465)

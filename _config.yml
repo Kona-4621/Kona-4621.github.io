@@ -40,22 +40,30 @@ defaults:
       comments: true
       share: true
       related: true
+  - scope:    # _pages
+      path: ""
+      type: pages
+    values:
+      layout: single
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      classes: wide
+      author_profile: true
 
 
 author:
   name: "Kona"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "hashtag yep" # Note: Markdown is allowed
+  avatar: "/assets/images/site/miku_globe.gif"
+  bio: "hashtag yep"
   links:
-    - label: "GitHub"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+    - label: "Bluesky (boring)"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/hh4621.bsky.social"
     - label: "UTAU/VSynth Website"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      icon: "fa-solid fa-music"
+      url: "headhunter4621.github.io"
 
 # Build settings
 plugins:

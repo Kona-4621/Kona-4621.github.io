@@ -3,6 +3,8 @@ title: "Robotics Log 01 - Kickoff Day 1"
 category: robotics_log
 ---
 
+## Kickoff Stream & Initial Brainstorming
+
 8:45 AM - 5:00 PM (I left at 4:30)
 
 First day of kickoff meetings! 
@@ -19,19 +21,22 @@ BUT, if you design your own robot (ex. swerve and stuff, or maybe a turret), you
 
 I'm excited to see how this game progresses throughout the season!
 
-## Meetings until Scrimmage: `43`
+Meetings until Scrimmage: `43`
+
 
 ## Things Completed at This Meeting:
+
 ### Strategy:
 - Watched Kickoff Livestream
 - Came up with list of robot actions/alliance roles
 - Sorted roles/actions into "Must," "Could," and "Won't"
+
 
 ## Relevant Links:
 [Kickoff Stream (Replay)](https://www.youtube.com/watch?v=9kRhE5vgCvY)
 
 [Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)
 
-[MOSCOW Sort Google Sheet ](https://docs.google.com/spreadsheets/d/1z1QOl9JxvJ0wGgMmvaw7cJ8mKTGnyuxgDmkQH5suzJ8/edit?usp=sharing) Note: this has been updated with mechanisms
+[MOSCOW Sort Google Sheet ](https://docs.google.com/spreadsheets/d/1z1QOl9JxvJ0wGgMmvaw7cJ8mKTGnyuxgDmkQH5suzJ8/edit?usp=sharing)  Note: this has been updated with mechanisms
 
 [Game Overview/Dream Alliance Discussion Notes](https://docs.google.com/document/d/17TLW9Bz5lvzLFzB_akEmSr6VJ2GknwFV4s_i3Oww9Eo/edit?tab=t.0)
