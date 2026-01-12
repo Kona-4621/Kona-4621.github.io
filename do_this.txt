@@ -1,3 +1,0 @@
-run `bundle lock --add-platform x86_64-linux` to fix build errors (?)
-
-run `bundle` and then `bundle update` to install new theme
