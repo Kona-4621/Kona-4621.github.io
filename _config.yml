@@ -63,7 +63,7 @@ author:
       url: "https://bsky.app/profile/hh4621.bsky.social"
     - label: "UTAU/VSynth Website"
       icon: "fa-solid fa-music"
-      url: "headhunter4621.github.io"
+      url: "https://headhunter4621.github.io"
 
 # Build settings
 plugins:
@@ -74,6 +74,9 @@ minimal_mistakes_skin: "neon"
 include: ["_pages"]
 sass:
   quiet_deps: true
+
+footer:
+  links:
 
 
 
