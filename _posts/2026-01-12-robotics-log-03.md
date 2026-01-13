@@ -34,8 +34,9 @@ Meetings until Scrimmage: `41`
 - Progress on BunnyBots robot Reveal/Recap Video
 
 ## Scrum Board:
-| **Prototype:**     | **Tasks:**                                                                | Test By:        |
-|:-------------------|:--------------------------------------------------------------------------|:----------------|
+
+| Prototype:         | Tasks:                                                                    | Test By:        |
+|--------------------|---------------------------------------------------------------------------|-----------------|
 | KitBot             | Build (Steps TBD)                                                         | Thursday        |
 | Climber            | Design -> CAD Design -> CNC -> Build                                      | Friday/Saturday |
 | Hooded Shooter     | Finish CAD -> CNC -> Build                                                | Friday          |
