@@ -5,7 +5,7 @@ collection: robotics_log
 
 [Very short (3-5 word) description of meeting]
 
-[Meeting Date] ([Meeting Hours])
+[Day], [Month] [#Day] ([Meeting Hours])
 
 [Summary]
 
@@ -37,15 +37,14 @@ Meetings until [next event name]: `[Amount of Days]`
 
 
 ## Scrum Board:
-| **Subteam:**   | **Tasks:**                             | **Dependencies:**           | **Wishlist:** |
-|:---------------|:---------------------------------------|:----------------------------|:--------------|
-| Mechanical     |                                        |                             |               |
-| Electrical     |                                        |                             |               |
-| Software       |                                        |                             |               |
-| CAD            |                                        |                             |               |
-| Strategy       |                                        |                             |               |
-| Business       |                                        |                             |               |
-| Media          |                                        |                             |               |   
+| **Subteam:**   | **Tasks:** | **Dependencies:** | **Wishlist:** |
+|:---------------|:-----------|:------------------|:--------------|
+| Mechanical     |            |                   |               |
+| Electrical     |            |                   |               |
+| Software       |            |                   |               |
+| CAD            |            |                   |               |
+| Strategy       |            |                   |               |
+| Business/Media |            |                   |               |
 
 ## Team Goals for Next Meeting:
 

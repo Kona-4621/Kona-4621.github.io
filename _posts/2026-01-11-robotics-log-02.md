@@ -5,7 +5,7 @@ category: robotics_log
 
 ## Mechanism & Prototype Discussions
 
-Sunday, January  11  (10:00AM - 5:00 PM)
+Sunday, January  11  (10:00 AM - 5:00 PM)
 
 At this meeting, we reviewed our decisions on what robot actions to pursue, and brainstormed mechanisms.
 After we drew the designs in groups and presented them to everyone, we sorted them into the MOSCOW chart and determined which to prototype (some with just wood/cardboard and some with CAD) and which to ignore.
