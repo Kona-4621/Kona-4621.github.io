@@ -37,6 +37,7 @@ Meetings until [next event name]: `[Amount of Days]`
 
 
 ## Scrum Board:
+
 | **Subteam:**   | **Tasks:** | **Dependencies:** | **Wishlist:** |
 |:---------------|:-----------|:------------------|:--------------|
 | Mechanical     |            |                   |               |
