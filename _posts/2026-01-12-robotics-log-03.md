@@ -34,6 +34,7 @@ Meetings until Scrimmage: `41`
 - Progress on BunnyBots robot Reveal/Recap Video
 
 ## Scrum Board:
+
 | **Prototype:**     | **Tasks:**                                                                | Test By:        |
 |:-------------------|:--------------------------------------------------------------------------|:----------------|
 | KitBot             | Build (Steps TBD)                                                         | Thursday        |
