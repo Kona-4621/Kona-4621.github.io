@@ -7,10 +7,8 @@ category: robotics_log
 
 Sunday, January  11  (10:00 AM - 5:00 PM)
 
-At this meeting, we reviewed our decisions on what robot actions to pursue, and brainstormed mechanisms.
-After we drew the designs in groups and presented them to everyone, we sorted them into the MOSCOW chart and determined which to prototype (some with just wood/cardboard and some with CAD) and which to ignore.
-We also *accidentally got a KitBot* because our lead mentor forgot to opt out of it. 
-Originally, I thought this was annoying, until we realized that we can prototype multiple of the ideas using it, some without even modifying it!
+At this meeting, we reviewed our decisions on what robot actions to pursue, and brainstormed mechanisms. After we drew the designs in groups and presented them to everyone, we sorted them into the MOSCOW chart and determined which to prototype (some with just wood/cardboard and some with CAD) and which to ignore. We also *accidentally got a KitBot* because our lead mentor forgot to opt out of it. Originally, I thought this was annoying, until we realized that we can prototype multiple of the ideas using it, some without even modifying it!
+
 Here's the list of prototypes that we'll do
 - CAD:
   - Climber
@@ -29,10 +27,8 @@ Here's the list of prototypes that we'll do
 
 I am the lead of the Tube Indexer prototype, and I plan to get started on it next meeting.
 
-We also talked a lot about the schedule for the next few weeks. 
-Scrimmage is on February 22nd, and we plan to have the robot mechanically and electrically finished by then.
-We also hope to have some drive practice, as well as at least 1 auto by then. 
-In order to meet these goals, Kylie (the other co-captain) and I decided that the robot must be mechanically and electrically finished in 4 weeks, so it really is go time!
+We also talked a lot about the schedule for the next few weeks.  Scrimmage is on February 22nd, and we plan to have the robot mechanically and electrically finished by then. We also hope to have some drive practice, as well as at least 1 auto by then.  In order to meet these goals, Kylie (the other co-captain) and I decided that the robot must be mechanically and electrically finished in 4 weeks, so it really is go time!
+
 
 Meetings until Scrimmage: `42`
 

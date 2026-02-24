@@ -7,15 +7,10 @@ Starting on Prototypes & KitBot
 
 Mon, January  12  (4:00 PM - 7:00 PM)
 
-At this meeting, work started on prototypes. 
-Since the CAD lead already finished designing the over-bumper intake, it was cut on the CNC by the end of the day.
-Our mechanical lead (Link) helped some other mechanical members (and Kylie) assemble the KitBot. 
-Unfortunately (after the meeting) they realized that instead of building the square drivetrain, they accidentally are building the standard one, so some work will have to be corrected on Tuesday.
+At this meeting, work started on prototypes. Since the CAD lead already finished designing the over-bumper intake, it was cut on the CNC by the end of the day. Our mechanical lead (Link) helped some other mechanical members (and Kylie) assemble the KitBot. Unfortunately (after the meeting) they realized that instead of building the square drivetrain, they accidentally are building the standard one, so some work will have to be corrected on Tuesday.
 
-My prototype (the tube indexer) was actually almost completed. 
-I put holes for bearings and woodscrews to hold a piece of polycarb into a piece of plywood.
-A mentor tried to explain to me how this was actually a *bad* prototype because it didn't test the effects of balls pushing against each other, even though that wasn't originally the point.
-We decided that we will design and build a different prototype that is much longer (5-8 fuel wide?) and goes at a 180 degree angle rather than 90, and with a belt in the center.
+My prototype (the tube indexer) was actually almost completed. I put holes for bearings and woodscrews to hold a piece of polycarb into a piece of plywood. A mentor tried to explain to me how this was actually a *bad* prototype because it didn't test the effects of balls pushing against each other, even though that wasn't originally the point. We decided that we will design and build a different prototype that is much longer (5-8 fuel long?) and goes at a 180 degree angle rather than 90, and with a belt in the center.
+
 
 Meetings until Scrimmage: `41`
 
