@@ -15,4 +15,8 @@ Scrimmage was fun, generally. I drove the kitbot for a bit, but the flywheel kep
 
 I got to try being driver (my ideal drive team position) as well as human player (I made 1/24 shots lol, not doing that) and gunner. I really liked driving, and this robot drives very smoothly. The only problem was that the software lead forgot to correct the turning speed back to normal after testing so it turned incredibly slowly, but it was tolerable enough.
 
-At our next meeting, we are going to have a Scrimmage debrief and name-choosing ceremony. We're going to do RCV again, but with a period of time beforehand to let people explain what the names mean (which we forgot to do for bunnybots). I will make another log after that at some point. I suggested the names Miku and QB (or Q.B.) (our robot is a cube pretty much). I don't especially like the name Miku for this robot though, I think that QB and Voxel are very good suggestions. We will see which gets chosen!
+At our next meeting, we are going to have a Scrimmage debrief and name-choosing ceremony. We're going to do Ranked Choice Voting again, but with a period of time beforehand to let people explain what the names mean (which we forgot to do for bunnybots). I will make another log after that at some point. I suggested the names Miku and QB (or Q.B.) (our robot is a cube pretty much). I don't especially like the name Miku for this robot though, I think that QB and Voxel are very good suggestions. We will see which gets chosen!
+
+### Name Suggestions: 
+
+Miku, Cerberus, Teto, K.I.T.T., Zenith, Khaos, Louise, Poppy, Firework, QB, Karl, Lester, Hexter, Q*bert, Voxel, Gumi, illi_, XL, Bubbles, Ob2se, Rex, Fajiた (Fajita), Rouboboros, Evil Mariah Carey, Wasabi, 皇帝 (Koutei, Emperor)
