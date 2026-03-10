@@ -29,7 +29,7 @@ Meetings until Clackamas: `17`
 - Come up with more auto concepts (passing?)
 
 ### Strategy:
-- Consider different scouring solutions (scouter schedule would be amazing but might be too complicated?)
+- Consider different scouting solutions (scouter schedule would be amazing but might be too complicated?)
 
 ### Media:
 - Look through the rest of the photos
