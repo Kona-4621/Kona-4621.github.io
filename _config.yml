@@ -18,7 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
 title: Kona's Site
 email: kouga-p@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
@@ -26,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Currently, it's just for my FRC Build Season log/journal, but eventually I might add a photography section and other stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  HeadHunter4621
+github_username: HeadHunter4621
 
 defaults:
   # _posts
@@ -40,7 +39,7 @@ defaults:
       comments: true
       share: true
       related: true
-  - scope:    # _pages
+  - scope: # _pages
       path: ""
       type: pages
     values:
@@ -51,7 +50,6 @@ defaults:
       related: false
       classes: wide
       author_profile: true
-
 
 author:
   name: "Kona"
@@ -74,11 +72,6 @@ minimal_mistakes_skin: "neon"
 include: ["_pages"]
 sass:
   quiet_deps: true
-
-footer:
-  links:
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
