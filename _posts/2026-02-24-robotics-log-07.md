@@ -5,7 +5,7 @@ collection: robotics_log
 
 Scrimmage Debrief Meeting & Robot Naming
 
-Tuesday, Februaru 24 (4:00 PM - 8:00 PM)
+Tuesday, February 24 (4:00 PM - 8:00 PM)
 
 I didn't attend the award meeting, but from what I can tell it went well. The business and media and strategy teams discussed awards and how to achieve them. We decided that making pamphlets for each of the awards to give to the judges is a good idea, so the media team is going to work on that.
 
@@ -28,7 +28,7 @@ Meetings until OSF: `6`
 - Cleaned
 
 ### Software:
-- Tuned flywheels/dhooter
+- Tuned flywheels/shooter
 
 ### CAD:
 - 3D-Printed some parts

@@ -3,7 +3,7 @@ title: "Robotics Log 01 - Kickoff Day 1"
 category: robotics_log
 ---
 
-## Kickoff Stream & Initial Brainstorming
+Kickoff Stream & Initial Brainstorming
 
 Saturday, January  10 (8:45 AM - 5:00 PM (I left at 4:30))
 

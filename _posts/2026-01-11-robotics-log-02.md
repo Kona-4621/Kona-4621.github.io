@@ -3,7 +3,7 @@ title: "Robotics Log 02 - Kickoff Day 2"
 category: robotics_log
 ---
 
-## Mechanism & Prototype Discussions
+Mechanism & Prototype Discussions
 
 Sunday, January  11  (10:00 AM - 5:00 PM)
 
