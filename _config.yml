@@ -35,10 +35,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: true
-      share: true
+      read_time: true
+      comments: false
+      share: false
       related: true
+      classes: wide
   - scope: # _pages
       path: ""
       type: pages
