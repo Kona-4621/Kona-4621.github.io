@@ -36,4 +36,4 @@ Meetings until Clackamas: `17`
 - Make progress on robot reveal
 
 ## Relevant Links:
-[TBA Oregon State Fair Page](https://www.thebluealliance.com/event/2026orsal)
+[Oregon State Fair TBA Link](https://www.thebluealliance.com/event/2026orsal)
